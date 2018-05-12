@@ -1,0 +1,33 @@
+_repo: Memoir-of-an-Eventful-Expedition-in-Central-AmericaTravellers._29388
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Velasquez, Pedro
+    gutenberg_agent_id: '33889'
+    url: http://www.gutenberg.org/2009/agents/33889
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2009-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29388'
+  lccn: 02015679
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Central America -- Antiquities'
+- !lcsh 'Central America -- Description and travel'
+- !lcsh 'Aztecs'
+- !lcsh 'Indians of Central America'
+- !lcc 'F1401'
+title: "Memoir of an Eventful Expedition in Central America\r\nResulting in the Discovery\
+  \ of the Idolatrous City of Iximaya, in an Unexplored Region; and the Possession\
+  \ of two Remarkable Aztec Children, Descendants and Specimens of the Sacerdotal\
+  \ Caste, (now nearly extinct,) of the Ancient Aztec Founders of the Ruined Temples\
+  \ of that Country, Described by John L. Stevens, Esq., and Other Travellers."
+url: http://www.gutenberg.org/ebooks/29388
